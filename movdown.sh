@@ -15,3 +15,4 @@ read -p $'\e[1;92m[\e[0m\e[1;77m?\e[0m\e[1;92m] Enter the movie name:\e[0m ' mov
 printf "\e[1;92m your movie URL:\e[0m https://tamilrockers.unblockit.id/index.php/%s\n" $movie
 
 printf "\e[1;33m Happy Watching !!!! \e[0m"
+
